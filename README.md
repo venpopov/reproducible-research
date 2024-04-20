@@ -13,6 +13,7 @@ A list of resources for reproducible research. I work primarily with R, so these
 - [groundhog](https://groundhogr.com/) - load or install R packages available at a specific date
 - [fusen](https://thinkr-open.github.io/fusen/) - build an R package from an Rmarkdown file
 - [targets](https://books.ropensci.org/targets/) - an R package for creating pipelines for data science
+- [gert](https://github.com/r-lib/gert) - a simple git client for R
 
 ## Quatro
 
