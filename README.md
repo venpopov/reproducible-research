@@ -34,3 +34,4 @@ A list of resources for reproducible research. I work primarily with R, so these
 - [Reproducible pipelines](https://raps-with-r.dev/) - a book on building reproducible analytical pipelines with R
 - [r-pkgs](https://r-pkgs.org/) - a book on developing R packages
 - [Research projects as R packages](https://towardsdatascience.com/put-your-data-analysis-in-an-r-package-even-if-you-dont-publish-it) - a blog post about why and how you might create an R package for a data analysis project
+- [Reproducible research in psychology with Quarto](https://www.crumplab.com/blog/post_886_10_14_22_quartoProjects/) - a blog post about using Quarto for research projects
