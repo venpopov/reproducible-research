@@ -12,6 +12,7 @@ A list of resources for reproducible research. I work primarily with R, so these
 - [rang](https://gesistsa.github.io/rang/) - reconstruct reproducible R environments from older projects 
 - [groundhog](https://groundhogr.com/) - load or install R packages available at a specific date
 - [fusen](https://thinkr-open.github.io/fusen/) - build an R package from an Rmarkdown file
+- [targets](https://books.ropensci.org/targets/) - an R package for creating pipelines for data science
 
 ## Quatro
 
@@ -24,9 +25,11 @@ A list of resources for reproducible research. I work primarily with R, so these
 
 ## Misc
 
+- [Project-oriented workflows](https://rstats.wtf/projects) - a chapter on why to use RStudio projects
 - [command-line-args](https://bioinformatics.ccr.cancer.gov/docs/reproducible-r-on-biowulf/L4_RScript_sbatch_1/) - a tutorial on how to run R scripts with different input arguments via the command line
 - [Docker 101 for Data Scientists](https://solutions.posit.co/envs-pkgs/environments/docker/) - a tutorial on Docker for data scientists
 - [RStudio projects workflow](https://r4ds.had.co.nz/workflow-projects.html)
 - [Happy Git and GitHub for the useR](https://happygitwithr.com/index.html) - a resource for learning how to use Git and GitHub effectively in conjunction with the R programming language.
 - [Reproducible pipelines](https://raps-with-r.dev/) - a book on building reproducible analytical pipelines with R
 - [r-pkgs](https://r-pkgs.org/) - a book on developing R packages
+- [Research projects as R packages](https://towardsdatascience.com/put-your-data-analysis-in-an-r-package-even-if-you-dont-publish-it) - a blog post about why and how you might create an R package for a data analysis project
