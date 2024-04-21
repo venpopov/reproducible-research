@@ -37,3 +37,4 @@ A list of resources for reproducible research. I work primarily with R, so these
 - [Reproducible research in psychology with Quarto](https://www.crumplab.com/blog/post_886_10_14_22_quartoProjects/) - a blog post about using Quarto for research projects
 - [Targets works](https://carpentries-incubator.github.io/targets-workshop/introduction.html) - a series of articles detailing an example use of the targets package
 - [Reproducible computation at scale in R with targets](https://github.com/wlandau/targets-tutorial) -  a github repo with a workshop tutorial gradually building larger targets pipelines
+- [Another example of targets](https://rmflight.github.io/posts/2022-09-27-creating-an-analysis-using-targets/) - a blog post about using the targets package for a data analysis project
