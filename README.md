@@ -28,6 +28,8 @@ A list of resources for reproducible research. I work primarily with R, so these
 
 - [Project-oriented workflows](https://rstats.wtf/projects) - a chapter on why to use RStudio projects
 - [Overview of reproducible research](https://aeturrell.github.io/coding-for-economists/wrkflow-rap.html) - a book chapter on the whys and hows of reproducible research
+- [The Turing Way guide to reproducible research](https://the-turing-way.netlify.app/reproducible-research/reproducible-research) - a guide to reproducible research
+- [Quality assurance of code for research](https://best-practice-and-impact.github.io/qa-of-code-guidance/intro.html) - an online book with many resources on code quality and reproducibility
 - [command-line-args](https://bioinformatics.ccr.cancer.gov/docs/reproducible-r-on-biowulf/L4_RScript_sbatch_1/) - a tutorial on how to run R scripts with different input arguments via the command line
 - [Docker 101 for Data Scientists](https://solutions.posit.co/envs-pkgs/environments/docker/) - a tutorial on Docker for data scientists
 - [RStudio projects workflow](https://r4ds.had.co.nz/workflow-projects.html)
