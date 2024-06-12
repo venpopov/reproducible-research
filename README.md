@@ -15,6 +15,8 @@ A list of resources for reproducible research. I work primarily with R, so these
 - [targets](https://books.ropensci.org/targets/) - an R package for creating pipelines for data science
 - [gert](https://github.com/r-lib/gert) - a simple git client for R
 
+An overview of R packages related to reproducible research can be found [here](https://cran.r-project.org/web/views/ReproducibleResearch.html).
+
 ## Quatro
 
 - [awesome-quarto](https://github.com/mcanouil/awesome-quarto) - A curated list of resources and tools for using Quarto, a document automation tool for reproducible research
