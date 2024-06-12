@@ -28,6 +28,7 @@ An overview of R packages related to reproducible research can be found [here](h
 
 ## Misc
 
+
 - [Project-oriented workflows](https://rstats.wtf/projects) - a chapter on why to use RStudio projects
 - [Overview of reproducible research](https://aeturrell.github.io/coding-for-economists/wrkflow-rap.html) - a book chapter on the whys and hows of reproducible research
 - [The Turing Way guide to reproducible research](https://the-turing-way.netlify.app/reproducible-research/reproducible-research) - a guide to reproducible research
@@ -43,3 +44,4 @@ An overview of R packages related to reproducible research can be found [here](h
 - [Targets works](https://carpentries-incubator.github.io/targets-workshop/introduction.html) - a series of articles detailing an example use of the targets package
 - [Reproducible computation at scale in R with targets](https://github.com/wlandau/targets-tutorial) -  a github repo with a workshop tutorial gradually building larger targets pipelines
 - [Another example of targets](https://rmflight.github.io/posts/2022-09-27-creating-an-analysis-using-targets/) - a blog post about using the targets package for a data analysis project
+- [Common setup tasks for R projects](https://cjvanlissa.github.io/worcs/articles/setup.html)
