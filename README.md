@@ -30,6 +30,7 @@ An overview of R packages related to reproducible research can be found [here](h
 
 
 - [Project-oriented workflows](https://rstats.wtf/projects) - a chapter on why to use RStudio projects
+- [Project-oriented workflows](https://www.tidyverse.org/blog/2017/12/workflow-vs-script/) - a similar blogpost
 - [Overview of reproducible research](https://aeturrell.github.io/coding-for-economists/wrkflow-rap.html) - a book chapter on the whys and hows of reproducible research
 - [The Turing Way guide to reproducible research](https://the-turing-way.netlify.app/reproducible-research/reproducible-research) - a guide to reproducible research
 - [Quality assurance of code for research](https://best-practice-and-impact.github.io/qa-of-code-guidance/intro.html) - an online book with many resources on code quality and reproducibility
